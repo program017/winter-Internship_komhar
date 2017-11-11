@@ -1,4 +1,4 @@
-# Komhar Project (4 sprints from 9 Nov 2017 to 15 Jan 2018)
+# Winter Internship Komhar Project (4 sprints from 9 Nov 2017 to 15 Jan 2018)
 
 The four sprints are intended to create a complete solution that provides notarization and document storage service supported by ethereum blockchain and IPFS content storage. High level Physical Architecture: The IPFS node and ethereum testnet will reside on infura http://infura.io . The Web Application will reside AWS EC2 cloud instance. 
 
